@@ -1,0 +1,30 @@
+{
+  "date": "04/12/2025",
+  "name": "Nguyễn Xuân Dũng (Dũng Nguyễn 2)",
+  "reports": [
+    {
+      "period": "08/2025 - 12/2025",
+      "adaptability": "Khá",
+      "adaptability_note": "Trong 4 tháng qua, em đã thích nghi tốt hơn với công việc, đặc biệt là trong FE với Next.js đã code được chuẩn chỉnh hơn. Bên cạnh đó, em vẫn chủ động học thêm .NET và Angular để mở rộng kiến thức. Tuy chưa tham gia code BE, nhưng em đang cố gắng từng bước để nắm vững và có thể đảm nhận thêm trong tương lai. Khi có thay đổi về yêu cầu hoặc xử lý, em tiếp nhận khá nhanh và linh hoạt điều chỉnh theo dự án.",
+      "quality": "Khá",
+      "quality_note": "Chất lượng code đã cải thiện so với giai đoạn thực tập nhưng vẫn còn nhiều kiến thức về rtk chưa nắm vững trong dự án dẫn tới đôi khi code còn rối. Em chú ý hơn tới việc clean code, tuân thủ quy chuẩn của dự án và hạn chế được lượng bug phát sinh. Các quy trình công việc như cập nhật tiến độ, báo cáo thay đổi đều được thực hiện rõ ràng. Những task phức tạp hoặc khối lượng lớn cũng được hoàn thành ổn định và đúng yêu cầu.",
+      "responsibility": "Khá",
+      "responsibility_note": "Khi nhận nhiệm vụ, em luôn chủ động trao đổi với PM, BA, Tester để đảm bảo hiểu đúng và không bỏ sót yêu cầu. Em thường xuyên nhận thêm nhiệm vụ khi dự án cần và vẫn đảm bảo tiến độ chung. Phần lớn các nhiệm vụ đều hoàn thành đúng hạn, một số còn hoàn thành sớm hơn dự kiến.",
+      "communication": "Khá",
+      "communication_note": "Khả năng giao tiếp trong nhóm đã tiến bộ. Em tự tin trao đổi hơn khi gặp vấn đề, nhờ vậy hạn chế được sai sót do hiểu nhầm. Khi cần hỏi nghiệp vụ hoặc logic, em trình bày ngắn gọn, rõ ý và dễ hiểu. Việc phối hợp giữa em và PM, BA, QC thuận lợi hơn trước.",
+      "leadership": "Cần cải thiện",
+      "leadership_note": "Trong thời gian này, em chưa có nhiều cơ hội dẫn dắt hoặc hỗ trợ định hướng cho các bạn trong team. Em nhận ra mình cần rèn luyện thêm kỹ năng tổ chức, phối hợp và hỗ trợ người khác. Đây là kỹ năng em muốn phát triển để có thể đảm nhận các vị trí cao hơn trong tương lai.",
+      "documentation": "Khá",
+      "documentation_note": "Em có thực hiện viết tài liệu và mô tả logic khi cần thiết để BA và QC hiểu ý mình. Khi comment code, em chỉ tập trung vào các phần quan trọng, bỏ comment thừa gây rối. Kỹ năng trình bày tài liệu vẫn cần hoàn thiện thêm để rõ ràng hơn khi bàn giao hoặc hỗ trợ người khác đọc hiểu.",
+      "negotiation": "Khá",
+      "negotiation_note": "Trong những trường hợp yêu cầu từ BA hoặc QC không phù hợp với khả năng kỹ thuật hoặc thư viện, em đưa ra phân tích và chứng minh tính khả thi. Các đề xuất của em đã được anh chị chấp nhận nhiều hơn so với trước kia.",
+      "english": "Trung bình",
+      "english_note": "Em đọc hiểu tài liệu tiếng Anh ở mức cơ bản. Với tài liệu chuyên môn hoặc framework phức tạp, em vẫn cần dùng công cụ dịch hỗ trợ. Em đang cố gắng cải thiện khả năng tiếng Anh để đọc tài liệu nhanh và chính xác hơn.",
+      "summary": "Trong thời gian qua, em đã cải thiện đáng kể về kỹ thuật và quy trình. Chất lượng code sạch hơn, giảm bug, hiểu rõ nghiệp vụ hơn và chủ động khi làm việc với team. Giao tiếp trong nhóm tốt hơn, sẵn sàng hỗ trợ các bạn mới khi cần. Em giữ được thái độ tích cực và tinh thần hợp tác trong suốt quá trình làm việc.",
+      "plan": "Em đặt mục tiêu trau dồi thêm về .NET, Angular và học thêm Flutter. Em muốn nâng cao năng lực xử lý logic phức tạp để đảm nhận những nhiệm vụ quan trọng hơn. Em cũng muốn rèn thêm kỹ năng mềm để hướng đến mục tiêu đạt level Junior Developer trong thời gian tới.",
+      "result": "Dự án tham gia: Lixway, Memories, Nova-X. Hoàn thành đầy đủ và đúng hạn các nhiệm vụ được giao. Giao tiếp tốt với PM, BA, QC và các thành viên trong nhóm. Nắm vững quy trình làm việc và áp dụng hợp lý vào từng nhiệm vụ. Số lượng task hoàn thành: Lixway: 47 task, Memories: 51 task, Nova-X: 5 task.",
+      "desire": "Em mong muốn được học hỏi thêm từ các anh chị trong công ty, nâng cao kỹ năng và tham gia nhiều hơn vào các dự án lớn. Em muốn phát triển lâu dài, góp phần vào chất lượng chung của đội ngũ và các sản phẩm của công ty.",
+      "preferredCoworkers": ["Anh Đạt", "Anh Quân", "Anh Hà"]
+    }
+  ]
+}
